@@ -1,16 +1,13 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  maril:
+    image_url: /images/actors/m.png
+    name: maril
+    url: http://twitter.com/marilatelier
+  
+author: maril
+description: 整理整頓 Podcast
+description_long: 整理整頓大好きな人間が秀才に憧れてアタマやカラダを整えます。
+email: mariltotonoel@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +17,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: totonoel
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: life,study,learn,bodymake,health,notebook
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: まりるととのえる
+url: https://maril00.github.io/totonoel/
