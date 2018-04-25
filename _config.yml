@@ -28,3 +28,5 @@ sass:
 timezone: Asia/Tokyo
 title: まりるととのえる
 url: https://maril00.github.io/totonoel/
+
+theme: jekyll-theme-minimal
