@@ -1,3 +1,3 @@
-# Yattecast
+# maril_totonoel
 
-https://r7kamura.github.io/yattecast/
+https://maril00.github.io/totonoel/
