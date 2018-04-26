@@ -19,7 +19,7 @@ exclude:
 google_analytics:
 hashtag: mariltotonoel
 itunes_podcast_url:
-keywords: life,study,learn,bodymake,health,notebook
+keywords: life,study,learn,tech,health,notebook
 language: ja
 markdown: kramdown
 permalink: /episode/:title
