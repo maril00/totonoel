@@ -6,7 +6,7 @@ actors:
   
 author: maril
 description: 整理整頓 Podcast
-description_long: 整理整頓大好きな人間が秀才に憧れてアタマやカラダを整えます。
+description_long: 整理整頓大好きな人間がwebツールを使ってアタマやカラダを整えます。
 email: mariltotonoel@gmail.com
 exclude:
   - docker
